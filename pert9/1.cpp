@@ -9,7 +9,7 @@ struct Queue {
     int rear;
     int count;
 };
-
+   
 // Inisialisasi Queue
 void init(Queue &q) {
     q.front = 0;
